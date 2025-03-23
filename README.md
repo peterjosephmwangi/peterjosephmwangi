@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Peter Joseph Mwangi  
 
-<!--
-**peterjosephmwangi/peterjosephmwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Passionate about coding, playing chess, and traveling!**  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔭 I’m currently working on **MERN Stack & Next.js projects**  
+- 🌱 I’m currently learning **Advanced Flask & Appwrite**  
+- 👯 I’m looking to collaborate on **Open-source & Full-stack projects**  
+- 💬 Ask me about **Next.js, React.js, MERN, Redux, Flask, and Appwrite**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+🔹 **Frontend:** Next.js, React.js, Redux, ShadCN, Tailwind CSS, Bootstrap  
+🔹 **Backend:** Node.js, Express.js, Flask  
+🔹 **Database:** MongoDB, Appwrite  
+🔹 **Languages:** TypeScript, JavaScript, Python  
+
+## 📫 Connect with Me  
+📧 Email: [iampeterjosep@gmail.com](mailto:iampeterjosep@gmail.com)  
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”* ✨  
