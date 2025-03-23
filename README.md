@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Peter Joseph Mwangi  
 
-👨‍💻 **Passionate about coding, playing chess, and traveling!**  
+👨‍💻 **Passionate about coding, playing chess, and travelling!**  
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **MERN Stack & Next.js projects**  
